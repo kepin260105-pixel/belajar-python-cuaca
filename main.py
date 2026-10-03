@@ -12,3 +12,5 @@ elif suhu >= 20:
     print("Cuaca: Sejuk 🌤️")
 else:
     print("Cuaca: Dingin 🌧️")
+
+print("Terima kasih sudah menggunakan program cek cuaca!")
